@@ -14,8 +14,8 @@ public class Main {
         double y = 9.5;
         double z = 11.11;
 
-        System.out.println((abs(10-a)>abs(10-b)) ? "Число b  " + b + " ближе к 10-ти" : "число a " + a +" ближе");
-        System.out.println((abs(10-y)>abs(10-z)) ? "Число z  " + z + " ближе к 10-ти" : "число y " + y +" ближе");
+        System.out.println((abs(ten-a)>abs(ten-b)) ? "Число b  " + b + " ближе к 10-ти" : "число a " + a +" ближе");
+        System.out.println((abs(ten-y)>abs(ten-z)) ? "Число z  " + z + " ближе к 10-ти" : "число y " + y +" ближе");
 
 
     }
